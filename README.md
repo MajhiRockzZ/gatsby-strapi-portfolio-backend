@@ -1,3 +1,3 @@
-# Strapi application
+# Gatsby Strapi Portfolio Application
 
-A quick description of your strapi application
+🧔 Portfolio App Backend using Strapi
