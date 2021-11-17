@@ -10,5 +10,6 @@
     "titleBar.inactiveBackground": "#007eff99",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#007EFF"
+  "peacock.color": "#007EFF",
+  "workbench.colorTheme": "Bearded Theme Vivid Purple"
 }
